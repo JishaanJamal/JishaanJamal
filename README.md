@@ -1,15 +1,16 @@
 <p align="center">
   <a href="https://github.com/JishaanJamal">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=01000f&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=400&height=44&lines=Service%20Delivery%20Manager;MNC%20company" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=%7C%7C%20People%20Leader%20%7C%20Service%20Delivery%20Manager%20%7C%20Process%20Exelence%20%7C%20AI%20%26%20Agentic%20AI%20%7C%2018%2B%20Year%20Experience%20%7C%20Lean%20%26%20GB%20Certified%20%7C%20Trust%20%26%20Safety%20%7C%20Musician%20%7C%20Composer%20%7C%20Singer%20%7C%7C;Genpact%20Pvt%20Ltd" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
+|| People Leader | Service Delivery Manager | Process Exelence | AI &amp; Agentic AI | 18+ Year Experience | Lean &amp; Six Sigma Green Belt Certified | Trust &amp; Safety | Musician | Composer | Singer ||  
 Enterprise architecture across business, application, data, AI, integration, API, security and infrastructure layers; HLD, LLD, ADR, UML, scalability, reliability and observability.  
 AI strategy and use-case discovery; POC/POV and MVP planning; product roadmaps; requirements engineering; delivery governance; resource allocation; capacity planning; risk and dependency management.  
 Executive stakeholder engagement, cross-functional team leadership, business-technology alignment, capability building, operating-model design, proposal/solution storytelling and continuous improvement.  
@@ -62,14 +63,14 @@ Responsible AI — AI governance, security, privacy, RBAC/RLS, least privilege, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=JishaanJamal&show_icons=true&theme=tokyonight&title_color=01000f&icon_color=01000f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=JishaanJamal&layout=compact&theme=tokyonight&title_color=01000f&icon_color=01000f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=JishaanJamal&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=JishaanJamal&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=JishaanJamal&bg_color=00000000&color=01000f&line=01000f&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=JishaanJamal&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
