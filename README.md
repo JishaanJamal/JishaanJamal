@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=%7CPeople%20Leader%7CService%20Delivery%20Manager%7CProcess%20Exelence%7CAgentic%20AI%7C%2018%2B%20Year%20Experience%7CLean%20%26%20GB%20Certified%7C%20Trust%20%26%20Safety%7CMusician%7C%7C;Working%20with%20Genpact%20Pvt%20Ltd" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=%7CPeople%20Leader%7CService%20Delivery%20Manager%7CProcess%20Exelence%7CAgentic%20AI%7C%2018%2B%20Year%20Experience%7CLean%20%26%20GB%20Certified%7C%20Trust%20%26%20Safety%7C;Working%20with%20Genpact%20Pvt%20Ltd" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
