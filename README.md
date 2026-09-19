@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/JishaanJamal">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20Service%20Delivery%20Manager" alt="Hello! I&#39;m Service Delivery Manager" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=794&text=Hello!%20I'm%20Jamal%20Ahmed" alt="Hello! I&#39;m Jamal Ahmed" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=%7C%7C%20People%20Leader%20%7C%20Service%20Delivery%20Manager%20%7C%20Process%20Exelence%20%7C%20AI%20%26%20Agentic%20AI%20%7C%2018%2B%20Year%20Experience%20%7C%20Lean%20%26%20GB%20Certified%20%7C%20Trust%20%26%20Safety%20%7C%20Musician%20%7C%7C;Genpact%20Pvt%20Ltd" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=%7CPeople%20Leader%7CService%20Delivery%20Manager%7CProcess%20Exelence%7CAI%20%26%20Agentic%20AI%7C%2018%2B%20Year%20Experience%7CLean%20%26%20GB%20Certified%7C%20Trust%20%26%20Safety%7CMusician%7C%7C;Working%20with%20Genpact%20Pvt%20Ltd" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
@@ -63,20 +63,20 @@ Responsible AI — AI governance, security, privacy, RBAC/RLS, least privilege, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=JishaanJamal&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=JishaanJamal&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=JishaanJamal&show_icons=true&theme=default&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=JishaanJamal&layout=compact&theme=default&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=JishaanJamal&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=JishaanJamal&bg_color=00000000&color=2ea043&line=2ea043&point=1f2328&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" alt="Dev quote" />
 </p>
 
 ---
