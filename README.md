@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/JishaanJamal">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=420&text=Hello!%20I'm" alt="Hello! I&#39;m" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20Service%20Delivery%20Manager" alt="Hello! I&#39;m Service Delivery Manager" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=%7C%7C%20People%20Leader%20%7C%20Service%20Delivery%20Manager%20%7C%20Process%20Exelence%20%7C%20AI%20%26%20Agentic%20AI%20%7C%2018%2B%20Year%20Experience%20%7C%20Lean%20%26%20GB%20Certified%20%7C%20Trust%20%26%20Safety%20%7C%20Musician%20%7C%20Composer%20%7C%20Singer%20%7C%7C;Genpact%20Pvt%20Ltd" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=%7C%7C%20People%20Leader%20%7C%20Service%20Delivery%20Manager%20%7C%20Process%20Exelence%20%7C%20AI%20%26%20Agentic%20AI%20%7C%2018%2B%20Year%20Experience%20%7C%20Lean%20%26%20GB%20Certified%20%7C%20Trust%20%26%20Safety%20%7C%20Musician%20%7C%7C;Genpact%20Pvt%20Ltd" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
